@@ -1,0 +1,2 @@
+rmic employees_mng.EmployeeServer
+pause
